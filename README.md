@@ -1,4 +1,4 @@
-# 🏢 Company-Wide-Project-Management
+# 🏢 Company-Wide Project Management Dashboard
 
 ## 📚 About Data
 Company-wide project performance data including project name, type, status, cost, benefit, and completion percentage, segmented by region and phase.
@@ -30,4 +30,4 @@ Conducted simple data wrangling and data cleaning:
 - Produced a 1-pager dashboard using Power BI.
 - Power BI : [Link](https://app.powerbi.com/view?r=eyJrIjoiODIxYTM1OWItZGIyOS00OWFkLWE5YTEtYzRlMWMwMWQ2ZmM3IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D)
 
-![Hi, I'm Siti Zaharah](./banner.png)
+![Company-Wide Project Management](./Company-Wide-Project-Management.jpg)
