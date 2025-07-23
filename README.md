@@ -23,8 +23,11 @@ Conducted simple data wrangling and data cleaning:
 - Explode Select Investors column into individual rows for categorical analysis
 
 📍 Jupyter script: Notebook
+
 📍 Clean Data: unicorn_companies_clean.csv
 
-📊 Visualization
+## 📊 Visualization
 - Produced a 1-pager dashboard using Power BI.
-- Power BI : Link
+- Power BI : [Link](https://app.powerbi.com/view?r=eyJrIjoiODIxYTM1OWItZGIyOS00OWFkLWE5YTEtYzRlMWMwMWQ2ZmM3IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D)
+
+![Hi, I'm Siti Zaharah](./banner.png)
