@@ -22,9 +22,6 @@ Conducted simple data wrangling and data cleaning:
 - Exclude rows with "Unknown" Funding values
 - Explode Select Investors column into individual rows for categorical analysis
 
-📍 Jupyter script: Notebook
-
-📍 Clean Data: unicorn_companies_clean.csv
 
 ## 📊 Visualization
 - Produced a 1-pager dashboard using Power BI.
