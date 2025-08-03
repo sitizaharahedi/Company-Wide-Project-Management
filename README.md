@@ -4,8 +4,6 @@
 Company-wide project performance data including project name, type, status, cost, benefit, and completion percentage, segmented by region and phase.
 This dashboard visualises a dataset containing detailed metrics across multiple projects, highlighting cost reduction, income generation, and process improvement impacts.
 
-#companywideprojectmanagement
-
 ## 💡 Highlights
 
 - East region contributed the most to project benefits and costs, accounting for 34.4% of the total in both categories.
