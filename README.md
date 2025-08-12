@@ -35,6 +35,6 @@ In 2022, the company saw its highest project investment and returns, with benefi
 
 ## 📌 Tools Used
 
-- Power BI for data visualization and dashboard creation.[Link](https://app.powerbi.com/view?r=eyJrIjoiODIxYTM1OWItZGIyOS00OWFkLWE5YTEtYzRlMWMwMWQ2ZmM3IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D)
+- Power BI for data visualization and dashboard creation. [Link](https://app.powerbi.com/view?r=eyJrIjoiODIxYTM1OWItZGIyOS00OWFkLWE5YTEtYzRlMWMwMWQ2ZmM3IiwidCI6ImFjZWQ1ODNlLTRhM2ItNDJkZS05ZTQ0LTRlNWFmYTk5Yjk4YSIsImMiOjEwfQ%3D%3D)
 
 ![Company-Wide Project Management](./Company-Wide-Project-Management.jpg)
